@@ -1,0 +1,25 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form button{
+   color: aqua;
+   background-color: brown;
+   letter-spacing: 2px;
+   border-radius: 10px;
+   padding: 10px;
+   font-weight: 10px;
+   
+}
+#bulb{
+    border-radius: 50%;
+    width: 150px;
+    height: 200px;
+}
